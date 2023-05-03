@@ -4,13 +4,12 @@
  
 <h4> This is an example application for solving image classification task based on deep neural network. More information about the algorithm can be found below. 
  
- <h2> Requirements
- <h4>
- * Pandas 
- * PyTorch version==1.7 
- * Numpy
- * Sklearn 
- * Pillow (PIL)
+ ## Requirements
+ 1. Pandas 
+ 2. PyTorch version==1.7 
+ 3. Numpy
+ 4. Sklearn 
+ 5. Pillow (PIL)
   
 ## Table of Contents
 1. [General Info](#general-info)
