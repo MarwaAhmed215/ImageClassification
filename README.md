@@ -1,8 +1,8 @@
  <h1> IMAGE CLASSIFICATION USING DEEP CONVOLUTIONAL NEURAL NETWORK
 
-<h2> About the project
+## About the project
  
-<h4> This is an example application for solving image classification task based on deep neural network. More information about the algorithm can be found below. 
+This is an example application for solving image classification task based on deep neural network. More information about the algorithm can be found below. 
  
  ## Requirements
  1. Pandas 
