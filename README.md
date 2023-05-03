@@ -10,6 +10,9 @@
  3. Numpy
  4. Sklearn 
  5. Pillow (PIL)
+ 6. Matplotlib
+ 
+ 
   
 ## Table of Contents
 1. [General Info](#general-info)
